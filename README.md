@@ -9,4 +9,4 @@
  
 Ejercicio: 
 =============
-[Ejercicio001][Ejercicio001.md]
+[https://github.com/GonElGon/RAY2018/blob/master/Ejercicio001.md]
