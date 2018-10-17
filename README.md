@@ -1,2 +1,5 @@
 # RAY2018
-Gabriel González Suárez
+Nombre: Gabriel
+Apellidos: González Suárez
+Estudiante de Aplicaciones en 3D
+Instituto : IES César Manrique
