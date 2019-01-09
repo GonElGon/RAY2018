@@ -7,7 +7,7 @@ section#game-section {
     position: relative;
     margin: auto;
     margin-bottom: 20px;
-     z-index: 900;
+     z-index: 400;
 }
 
 div#gameBackground {
@@ -17,7 +17,7 @@ width: 100%;
 height: 100%;
 top: 0px;
 left: 0px;
-z-index: 800;
+z-index: 400;
 display: block;
 
 }
