@@ -19,6 +19,7 @@ DOCTYPE html>
 		<link href="../style/lightbox.css" rel="stylesheet"> 
 		<link href="../style/main.css" rel="stylesheet">
 		<link href="../style/responsive.css" rel="stylesheet">
+		<link href="../style/jumping.css" rel="stylesheet">
 		
 
 		<!--[if lt IE 9]>
@@ -169,7 +170,11 @@ DOCTYPE html>
 
 		<!-- ================================================================================================================ -->
 		<section id="game-section">
-	
+	<div id="gameBackground"></div>
+	<canvas id="gameCanvas" width="480" height="320"></canvas>
+	<div id="gameButtonsSec">
+	<button id="reloadButton" type="button" onclick="reload();">Recargar</button> 
+	</div>
 </section>
 		<!--/#home-slider-->
 		<!-- ================================================================================================================ -->
@@ -269,6 +274,8 @@ DOCTYPE html>
 		<script type="text/javascript" src="../script/lightbox.min.js"></script>
 		<script type="text/javascript" src="../script/wow.min.js"></script>
 		<script type="text/javascript" src="../script/main.js"></script>
+		<script type="text/javascript" src="../script/jumping.js"></script>
+
 		
 		<!-- ================================================================================================================ -->
 	</body>
