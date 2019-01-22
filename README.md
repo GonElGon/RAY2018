@@ -5,7 +5,7 @@
 
  Estudiante de Aplicaciones en 3D
 
- Instituto : IES César Manrique
+ Instituto : IES César ManriquesS
  
 Ejercicio: 
 =============
